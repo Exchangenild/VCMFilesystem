@@ -5,4 +5,7 @@ public class MVCModel {
     public String getText() { 
         return text; 
     }
+    
+    
+    
 }
