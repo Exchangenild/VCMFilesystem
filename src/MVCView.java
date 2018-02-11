@@ -6,7 +6,7 @@ import java.awt.event.*;
 import java.util.*;
 
 class MVCView extends JFrame { 
-     
+     // eins
     JLabel label; 
      
     public MVCView() { 

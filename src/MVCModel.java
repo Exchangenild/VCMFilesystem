@@ -1,6 +1,6 @@
 
 public class MVCModel {
-	// test
+	// zwei
     private String text = "Hallo Welt!"; 
     public String getText() { 
         return text; 
