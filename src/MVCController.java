@@ -21,7 +21,12 @@ class MVCController implements ActionListener {
     public MVCController(MVCView view) { 
         this.view = view; 
         this.model = new MVCModel(); 
-    } 
+    }
+    // guzgufasf
+    
+    
+    
+    
 
     @Override 
     public void actionPerformed(ActionEvent e) { 
