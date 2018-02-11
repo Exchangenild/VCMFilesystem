@@ -4,7 +4,6 @@ import javax.swing.SwingUtilities;
  * https://javabeginners.de/Design_Patterns/Model-View-Controller.php
  *
  *
- *
  *git : 
  *https://stackoverflow.com/questions/17552457/how-do-i-upload-eclipse-projects-to-github
  *https://stackoverflow.com/questions/19474186/egit-rejected-non-fast-forward
